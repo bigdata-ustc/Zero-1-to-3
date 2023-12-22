@@ -1,6 +1,6 @@
 # Zero-1-to-3: Domain-level Zero-shot Cognitive Diagnosis via One Batch of Early-bird Students towards Three Diagnostic Objectives
 
-This is our implementation for the paper of **Zero-1-to-3: Domain-level Zero-shot Cognitive Diagnosis via One Batch of Early-bird Students towards Three Diagnostic Objectives** published on `AAAI 2024`. 
+This is our implementation for the paper of **Zero-1-to-3: Domain-level Zero-shot Cognitive Diagnosis via One Batch of Early-bird Students towards Three Diagnostic Objectives** published on `AAAI 2024` [[Paper](https://arxiv.org/abs/2312.13434)]. 
 
 Author: [Weibo Gao](https://scholar.google.com/citations?user=k19RS74AAAAJ&hl=zh-CN), [Qi Liu](http://staff.ustc.edu.cn/~qiliuql), [Hao Wang](http://staff.ustc.edu.cn/~wanghao3) et al.
 
