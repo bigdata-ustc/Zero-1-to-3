@@ -20,4 +20,4 @@ Coming soon~~~
 
 - **FedJudge: Federated Legal Large Language Model.** [[Paper](https://arxiv.org/abs/2309.08173)][[Code](https://github.com/yuelinan/FedJudge)]
 
-### Last Update Date: December 21, 2023
+### Last Update Date: December 24, 2023
