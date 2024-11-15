@@ -4,7 +4,7 @@ import torch.nn as nn
 
 class Net(nn.Module):
     '''
-    NeuralCDM
+    Zero-1-to-3
     '''
     def __init__(self, student_n, exer_n, knowledge_n, domain, device):
         self.knowledge_dim = 256
