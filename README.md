@@ -7,7 +7,7 @@ Authors: [Weibo Gao](https://scholar.google.com/citations?user=k19RS74AAAAJ&hl=z
 Email: weibogao@mail.ustc.edu.cn
 
 ## News
-- 2025-03-10：我们更新了多个由人工标注的学习主题数据样例，供参考。若使用其他数据，请根据数据的知识主题、难度等因素，或随机划分成多个域，并处理成提供的 data-demo 格式。由于第一作者近期正在处理紧迫的DDL，暂时无法提供更详细的 README。如在运行代码时遇到困难，欢迎通过微信交流，第一作者（gaoweibo1997）将通过微信口述指导代码运行或数据处理。感谢您的关注与理解！
+- 2025-03-10：We have updated multiple manually annotated sample datasets on different learning topics for reference. If you use other datasets, please partition them into multiple domains based on knowledge topics, difficulty levels, or randomly, and process them into the provided data-demo format. Due to the first author's current time constraints with upcoming deadlines, a more detailed README is temporarily unavailable. If you encounter any difficulties while running the code, feel free to reach out via WeChat. The first author (gaoweibo1997) will provide verbal guidance on running the code or processing the data. Thank you for your interest and understanding! （In Chinese：我们更新了多个由人工标注的学习主题数据样例，供参考。若使用其他数据，请根据数据的知识主题、难度等因素，或随机划分成多个域，并处理成提供的 data-demo 格式。由于第一作者近期正在处理紧迫的DDL，暂时无法提供更详细的 README。如在运行代码时遇到困难，欢迎通过微信交流，第一作者（gaoweibo1997）将通过微信口述指导代码运行或数据处理。感谢您的关注与理解！）
 
 ## Environment Settings
 We use PyTorch as the backend.
